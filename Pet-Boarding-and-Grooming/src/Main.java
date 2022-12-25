@@ -7,6 +7,7 @@ public class Main {
 		Dog dogFunction = new Dog();
 		Cat catFunction = new Cat();
 		boolean dogCode  = true;
+		
 		if (dogCode) {
 			System.out.println("Code Work!!!");
 		}
