@@ -1,5 +1,5 @@
 
-public class Dog {
+public class Dog  {
 	//Define Variable 
 	String petType;
 	String petName;
