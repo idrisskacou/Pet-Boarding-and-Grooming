@@ -5,6 +5,19 @@ public class Dog  {
 	String petName;
 	int petAge;
 	String dogSpaces;
+	boolean reserved;
+	/**
+	 * @return the reserved
+	 */
+	public boolean isReserved() {
+		return reserved;
+	}
+	/**
+	 * @param reserved the reserved to set
+	 */
+	public void setReserved(boolean reserved) {
+		this.reserved = reserved;
+	}
 	int daysStay;
 	int amountDue;
 	
