@@ -1,2 +1,5 @@
-/Pet-Boarding-and-Grooming/
-.settings
+/Pet-Boarding-and-Grooming/settings
+/bin
+/Pet-Boarding-and-Grooming/.settings
+.gitignore
+.DS_Store
