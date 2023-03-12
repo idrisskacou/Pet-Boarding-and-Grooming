@@ -1,5 +1,6 @@
 /Pet-Boarding-and-Grooming/settings
 /bin
-/Pet-Boarding-and-Grooming/.settings
+/Pet-Boarding-and-Grooming/.settings/org.eclipse.core.resources.prefs
+/Pet-Boarding-and-Grooming/.settings/org.eclipse.jdt.core.prefs
 .gitignore
 .DS_Store
